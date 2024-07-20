@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1031704045576",
+    "project_id": "kotlinauthenticationstud-4be20",
+    "storage_bucket": "kotlinauthenticationstud-4be20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031704045576:android:fb9dcbae2b747bb8e989bd",
+        "android_client_info": {
+          "package_name": "com.kenant42.kotlinauthenticationstudy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031704045576-bftm33cbbpvtt7mva6jrof9o85scgp0p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kenant42.kotlinauthenticationstudy",
+            "certificate_hash": "d790162f835335b24eb3603dae77e536c254f86b"
+          }
+        },
+        {
+          "client_id": "1031704045576-24qjsqhpe8864g8ms07ejtto0vhac8gq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxClrwtT6Vb7HBPvgTxowDlPQ_noyNy5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031704045576-24qjsqhpe8864g8ms07ejtto0vhac8gq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

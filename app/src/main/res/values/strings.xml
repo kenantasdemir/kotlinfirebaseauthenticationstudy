@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">kotlinauthenticationstudy</string>
+    <string name="default_web_client_id">1031704045576-bftm33cbbpvtt7mva6jrof9o85scgp0p.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">845430160412375</string>
+    <string name="facebook_client_token">53d6b383b8bc790ee8a032a95ff00b81</string>
+    <string name="fb_login_protocol_scheme">fb465379152419170</string>
+    <string name="fb_login_protocol_schema">VzSiQcXRmi2kyjzcA+mYLEtbGVs=</string>
+</resources>
